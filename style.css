@@ -84,3 +84,53 @@ input {
     height: 50px;
     width: 100px;
 }
+
+.new_li {
+    margin-top: 13px;
+}
+
+.new_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.new_li img {
+    border-radius: 25px;
+}
+
+.new_li p {
+    margin-top: 10px;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.header_enterpreneur {
+    line-height: 2;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+#footer {
+    height: 20px;
+    background-color: white;
+}
